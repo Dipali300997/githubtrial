@@ -3,14 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Doreamon.Giyan">
+      <class name="Doreamon.saucedemotrial">
         <methods>
           <include name="bt"/>
-          <include name="fillinformation"/>
-          <include name="register"/>
-          <include name="login"/>
+          <include name="about"/>
         </methods>
-      </class> <!-- Doreamon.Giyan -->
+      </class> <!-- Doreamon.saucedemotrial -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

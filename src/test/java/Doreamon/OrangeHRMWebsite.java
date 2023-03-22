@@ -21,7 +21,7 @@ import com.github.dockerjava.api.model.Driver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Nobita {
+public class OrangeHRMWebsite {
 	public static String url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login";
 	WebDriver driver;
 
